@@ -30,7 +30,7 @@ git clone https://github.com/sanbids/all-nepali-font.git
 
 Next, navigate to the Nepali Font directory by running the following command:
 ```sh
-cd Nepali-Font
+cd all-nepali-font
 ```
 
 Finally, run the installation script by running the following command:

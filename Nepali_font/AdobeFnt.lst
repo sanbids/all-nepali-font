@@ -1,0 +1,162 @@
+%!Adobe-FontList 1.04
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:0012ARAPItalic
+FamilyName:0012  ARAP
+StyleName:Italic
+FullName:0012  ARAP Italic
+WritingScript:Roman
+OutlineFileName:\0012ai__.ttf
+DataFormat:sfntData
+FileLength:60516
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HisiS
+FamilyName:HisiS
+StyleName:Regular
+FullName:HisiS
+WritingScript:Roman
+OutlineFileName:\HISIS___.TTF
+DataFormat:sfntData
+FileLength:40092
+WeightClass:5
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ganesh
+FamilyName:Ganesh
+StyleName:Regular
+FullName:Ganesh
+WritingScript:Roman
+OutlineFileName:\ganesh__.TTF
+DataFormat:sfntData
+FileLength:39012
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:0012ARAPBold
+FamilyName:0012  ARAP
+StyleName:Bold
+FullName:0012  ARAP Bold
+WritingScript:Roman
+OutlineFileName:\0012ab__.ttf
+DataFormat:sfntData
+FileLength:58532
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:0012ARAP
+FamilyName:0012  ARAP
+StyleName:Regular
+FullName:0012  ARAP
+WritingScript:Roman
+OutlineFileName:\0012arap.ttf
+DataFormat:sfntData
+FileLength:58908
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:0012ARAPBI
+FamilyName:0012  ARAP  BI
+StyleName:Regular
+FullName:0012  ARAP  BI
+WritingScript:Roman
+OutlineFileName:\0012a___.ttf
+DataFormat:sfntData
+FileLength:60048
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:003ARAPItalic
+FamilyName:003 ARAP
+StyleName:Italic
+FullName:003 ARAP Italic
+WritingScript:Roman
+OutlineFileName:\003ari__.ttf
+DataFormat:sfntData
+FileLength:61016
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:003ARAPBold
+FamilyName:003 ARAP
+StyleName:Bold
+FullName:003 ARAP Bold
+WritingScript:Roman
+OutlineFileName:\003arb__.ttf
+DataFormat:sfntData
+FileLength:56824
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:003ARAP
+FamilyName:003 ARAP
+StyleName:Regular
+FullName:003 ARAP
+WritingScript:Roman
+OutlineFileName:\003arap_.ttf
+DataFormat:sfntData
+FileLength:57280
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Ganess
+FamilyName:Ganess
+StyleName:Regular
+FullName:Ganess
+WritingScript:Roman
+OutlineFileName:\ganess__.TTF
+DataFormat:sfntData
+FileLength:38752
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
